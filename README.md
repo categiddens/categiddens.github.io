@@ -1,12 +1,6 @@
 # categiddens.github.io
 categiddens.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<link type="text/css" rel="stylesheet" href="style.css" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"; name="keywords" content="HTML, CSS, personal blog, travel"; name="author" content="Cate G">
-<meta charset="utf-8">
-<style> 
+
 
 #body {background color: green;
       font-size: 14px;
@@ -37,7 +31,7 @@ background  color: white
 <body style="background-color:rgb(0,200,58">
             <div id="wrapper">
                  <div id="header">
- <h1 font-size: 50px >An infinitesimal exploration of the world via Cate's experience in Kitgum for the lovely few who care 
+ <h1 style="font-size:50px">An infinitesimal exploration of the world via Cate's experience in Kitgum for the lovely few who care 
 </h1>
                  </div>
                  <div id="content">
