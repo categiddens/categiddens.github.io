@@ -1,5 +1,57 @@
 # categiddens.github.io
 categiddens.github.io
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cate's blog</title>
+<link type="text/css" rel="stylesheet" href="style.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"; name="keywords" content="HTML, CSS, personal blog, travel"; name="author" content="Cate G">
+<meta charset="utf-8">
+<style> 
+{     margin 0px;
+      padding 0px;
+}
+#body {background color: green;
+      font-size: 14px;
+      font-color: black
+}
+#wrapper {
+        width:800px;
+        margin-left: auto;
+        margin-right: auto;
+}
+#header  {background-color: pink;
+          height: 80px;
+          width: 100%;
+          margin:0px;
+}
+
+background  color: white
+          padding: 5px; 
+          border: 1px solid grey
+          margin-bottom: 5px
+}
+.post p {
+         margin-bottom: 5px;
+}
+
+</style>
+</head>
+<body style="background-color:rgb(0,200,58">
+            <div id="wrapper">
+                 <div id="header">
+ <h1 font-size: 50px >An infinitesimal exploration of the world via Cate's experience in Kitgum for the lovely few who care 
+</h1>
+                 </div>
+                 <div id="content">
+                        <div class="post">
+                          <h2 style="font-size:25px"> Why I am writing </h2>
+                          <article><p style="border:5px solid pink";margin="50px">I couldn't write without feeling that there was good reason to. Despite having a lot of trouble setting this up with my weak coding knowledge, here we are. I'm beginning this blog just as I depart for a 3-month VSO volunteering project in Uganda. Reflecting on things via this platform shall help me to gain and learn more from my experiences. Admittedly, I feel nervous about how honest I can be online about my life, however, I want to look beyond this blog being about me if that makes sense? It's an infiniteismal exploration of the world and humanity!
+We all have our life experiences and mine are no more important than anyone else's, but I believe that one can gain a lot from what others say when they are honest. I intend to be honest and to take the time to write about what I care about. 
+</br>
+It is what you take from it, feel no obligation to read that which doesn't engage you. 
+</p> </div> 
+
 <div id="image"> <img src:"/images/img_cate.jgp"> </div>
 
   <!--Don't display<             
