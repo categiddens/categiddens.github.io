@@ -7,9 +7,7 @@ categiddens.github.io
 <meta name="viewport" content="width=device-width, initial-scale=1.0"; name="keywords" content="HTML, CSS, personal blog, travel"; name="author" content="Cate G">
 <meta charset="utf-8">
 <style> 
-{     margin 0px;
-      padding 0px;
-}
+
 #body {background color: green;
       font-size: 14px;
       font-color: black
